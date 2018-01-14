@@ -1,10 +1,10 @@
 ![Logo](admin/feiertage.png)
-# ioBroker.feiertage
+# ioBroker.feiertageAT
 
-[![NPM version](http://img.shields.io/npm/v/iobroker.feiertage.svg)](https://www.npmjs.com/package/iobroker.feiertage)
-[![Downloads](https://img.shields.io/npm/dm/iobroker.feiertage.svg)](https://www.npmjs.com/package/iobroker.feiertage)
+[![NPM version](http://img.shields.io/npm/v/iobroker.feiertage.svg)](https://www.npmjs.com/package/iobroker.feiertageAT)
+[![Downloads](https://img.shields.io/npm/dm/iobroker.feiertage.svg)](https://www.npmjs.com/package/iobroker.feiertageAT)
 [![Tests](https://travis-ci.org/Pix---/ioBroker.feiertage.svg?branch=master)](https://travis-ci.org/Pix---/ioBroker.feiertage)
-[![Open Issues](http://githubbadges.herokuapp.com/Pix---/ioBroker.feiertage/issues.svg)](http://github.com/Pix---/ioBroker.feiertage/issues)
+[![Open Issues](http://githubbadges.herokuapp.com/Pix---/ioBroker.feiertage/issues.svg)](http://github.com/schauaufdich/ioBroker.feiertage/issues)
 
 [![NPM](https://nodei.co/npm/iobroker.feiertage.png?downloads=true)](https://nodei.co/npm/iobroker.feiertage/)
 
@@ -15,7 +15,7 @@ Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/Pix---/
 ## Beschreibung / Description
 Deutsch  | English
 ------------- | -------------
-Dieser Adapter liefert das Datum, die Dauer bis zu diesem Datum in Tagen und den Namen des nächsten deutschen Feiertages und gibt Auskunft, ob heute, morgen oder übermorgen ein Feiertag ist.  | This adapter delivers date, distance in days to this date and name of the next German holiday. Furthermore it tells if today, tommorw or the day after tommorow is a holiday in Germany.
+Dieser Adapter, basierend auf den ioBroker.Feiertag Adapter von Pix---, liefert das Datum, die Dauer bis zu diesem Datum in Tagen und den Namen des nächsten österreichischen Feiertages und gibt Auskunft, ob heute, morgen oder übermorgen ein Feiertag ist.  | This adapter, based on ioBroker.Feiertag adapter created by Pix---, delivers date, distance in days to this date and name of the next Austrian holiday. Furthermore it tells if today, tommorw or the day after tommorow is a holiday in Germany.
 
 
 
