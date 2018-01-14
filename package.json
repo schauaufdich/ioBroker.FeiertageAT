@@ -1,15 +1,15 @@
 {
-  "name": "iobroker.feiertage",
-  "description": "Deutsche Feiertage",
+  "name": "iobroker.feiertageAT",
+  "description": "Österreichische Feiertage based on Deutsche Feiertage von pix, Bluefox, jens-maus",
   "version": "1.0.0",
   "author": "pix",
   "contributors": [
     "pix", "Bluefox", "jens-maus"
   ],
-  "homepage": "https://github.com/Pix---/ioBroker.feiertage",
+  "homepage": "https://github.com/schauaufdich/ioBroker.feiertageAT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Pix---/ioBroker.feiertage"
+    "url": "https://github.com/schauaufdich/ioBroker.feiertageAT"
   },
   "license": "MIT",
   "keywords": [
@@ -20,6 +20,8 @@
     "Feiertage",
     "Holidays",
     "home automation",
+	"Austria",
+	"Österreich",
     "pix"
   ],
   "dependencies": {
@@ -35,7 +37,7 @@
     "chai": "^3.5.0"
   },
   "bugs": {
-    "url": "https://github.com/Pix---/ioBroker.feiertage/issues"
+    "url": "https://github.com/schauaufdich/ioBroker.feiertageAT/issues"
   },
   "main": "main.js",
   "scripts": {
