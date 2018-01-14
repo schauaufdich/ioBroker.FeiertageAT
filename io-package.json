@@ -1,10 +1,10 @@
 {
     "common": {
-        "name":                     "feiertage",
-        "title":                    "Deutsche Feiertage",
-        "desc": {                   "en": "German Holidays calculates religous, political and calendarial Holidays",
-                                    "de": "Deutsche Feiertage berechnet nach der Formel von Heiner Lichtenberg beruhend auf der Gaußschen Osterformel",
-                                    "ru": "Deutsche Feiertage - translate to russian, please"},
+        "name":                     "feiertageAT",
+        "title":                    "Österreichische Feiertage",
+        "desc": {                   "en": "Austrian Holidays calculates religous, political and calendarial Holidays",
+                                    "de": "Österreichische Feiertage berechnet nach der Formel von Heiner Lichtenberg beruhend auf der Gaußschen Osterformel",
+                                    "ru": "Österreichische Feiertage - translate to russian, please"},
         "version":                  "1.0.0",
 	"news": {
 	        "1.0.0": {
@@ -29,9 +29,9 @@
             "Bluefox"
         ],
         "license": "MIT",
-        "readme": "https://github.com/Pix---/ioBroker.feiertage/blob/master/README.md",
+        "readme": "https://github.com/schauaufdich/ioBroker.feiertageAT/blob/master/README.md",
         "icon": "feiertage.png",
-        "extIcon": "https://raw.githubusercontent.com/Pix---/ioBroker.feiertage/master/admin/feiertage.png",
+        "extIcon": "https://raw.githubusercontent.com/schauaufdich/ioBroker.feiertageAT/master/admin/feiertage.png",
         "allowInit": true,
         "type": "date-and-time",
         "config": {
