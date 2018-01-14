@@ -8,7 +8,7 @@ var holidays = require(__dirname + '/admin/holidays').holidays; // Get common ad
 var lang = 'de';
 
 var adapter = utils.adapter({
-    name:           'feiertage',
+    name:           'feiertageAT',
     useFormatDate:  true
 });
 
@@ -18,9 +18,9 @@ adapter.on('ready', function () {
             lang  = data.common.language;
         }
 
-        adapter.log.debug('adapter feiertage initializing objects');
+        adapter.log.debug('adapter feiertageAT initializing objects');
         checkHolidays();
-        adapter.log.info('adapter feiertage objects written');
+        adapter.log.info('adapter feiertageAT objects written');
 
         setTimeout(function () {
             adapter.log.info('force terminating after 1 minute');
